@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Progress
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Day 1 (6/2/23) as commit. Learn about Layout, Bootstrap, sass, Props and React router
 
 ## Available Scripts
 
