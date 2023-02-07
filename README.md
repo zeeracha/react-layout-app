@@ -1,6 +1,8 @@
 # Progress
 
 - Day 1 (6/2/23) as commit. Learn about Layout, Bootstrap, sass, Props and React router
+- Day 2 (7/2/23) as props and state, deeply in props on pages>cart.jsx and page>cartItems.jsx
+    State shows on pages>Counter.jsx
 
 ## Available Scripts
 
